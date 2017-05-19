@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 19499920eeef5744aaf18ba6df3c2fa1
+timeCreated: 1495118493
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ThinGrass2_0
+    21300002: ThinGrass2_1
+    21300004: ThinGrass2_2
+    21300006: ThinGrass2_3
+    21300008: ThinGrass2_4
+    21300010: ThinGrass2_5
+    21300012: ThinGrass2_6
+    21300014: ThinGrass2_7
+    21300016: ThinGrass2_8
+    21300018: ThinGrass2_9
+    21300020: ThinGrass2_10
+    21300022: ThinGrass2_11
+    21300024: ThinGrass2_12
+    21300026: ThinGrass2_13
+    21300028: ThinGrass2_14
+    21300030: ThinGrass2_15
+    21300032: ThinGrass2_16
+    21300034: ThinGrass2_17
+    21300036: ThinGrass2_18
+    21300038: ThinGrass2_19
+    21300040: ThinGrass2_20
+    21300042: ThinGrass2_21
+    21300044: ThinGrass2_22
+    21300046: ThinGrass2_23
+    21300048: ThinGrass2_24
+    21300050: ThinGrass2_25
+    21300052: ThinGrass2_26
+    21300054: ThinGrass2_27
+    21300056: ThinGrass2_28
+    21300058: ThinGrass2_29
+    21300060: ThinGrass2_30
+    21300062: ThinGrass2_31
+    21300064: ThinGrass2_32
+    21300066: ThinGrass2_33
+    21300068: ThinGrass2_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThinGrass2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 235
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 239
+        width: 235
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_2
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 239
+        width: 236
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_3
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 239
+        width: 236
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_4
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 239
+        width: 236
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_5
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 239
+        width: 234
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_6
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 239
+        width: 235
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_7
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 239
+        width: 235
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_8
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 239
+        width: 235
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_9
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 239
+        width: 235
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_10
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 239
+        width: 235
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_11
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 239
+        width: 234
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 235
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 237
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 236
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 236
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_16
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 238
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_17
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 0
+        width: 237
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_18
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 237
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_19
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 0
+        width: 236
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_20
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 0
+        width: 236
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_21
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 0
+        width: 236
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThinGrass2_22
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 235
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
